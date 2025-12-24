@@ -11,6 +11,11 @@ How concentrated is revenue across the customer base?
 How do product categories scale in terms of orders and revenue?
 Are operational issues (late deliveries) impacting core revenue drivers?
 
+**Data Preparation**
+Data was cleaned, joined, and transformed using Python (pandas) prior to visualization.
+An analytics-ready fact table was created at the order-item level, with engineered features to simplify KPI computation in Tableau.
+
+
 **Dashboard Structure**
 
 **Page A — Executive Overview**
