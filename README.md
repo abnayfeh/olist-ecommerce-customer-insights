@@ -13,7 +13,7 @@ Are operational issues (late deliveries) impacting core revenue drivers?
 
 **Dashboard Structure**
 
-Page A — Executive Overview
+**Page A — Executive Overview**
 
 Provides a high-level snapshot of business performance, including:
   -Total revenue, orders, customers, and average order value
@@ -25,7 +25,7 @@ Insight: Revenue grows steadily over time, but repeat customer rate remains rela
 <img width="1197" height="698" alt="Screenshot 2025-12-24 at 5 17 37 PM" src="https://github.com/user-attachments/assets/ed514fcb-c183-4b25-8f0d-279bd412835c" />
 
 
-Page B — Customer Segmentation (RFM Analysis)
+**Page B — Customer Segmentation (RFM Analysis)**
 
 Customers are segmented using purchase frequency and total spend into High-, Mid-, and Low-Value groups.
 
@@ -33,7 +33,7 @@ Insight: High-value customers represent roughly one-third of the customer base b
 
 <img width="1200" height="702" alt="Screenshot 2025-12-24 at 5 18 28 PM" src="https://github.com/user-attachments/assets/d56a33c1-ad08-4d29-bc98-8fa89a191745" />
 
-Page C — Orders vs. Revenue (Category Efficiency)
+**Page C — Orders vs. Revenue (Category Efficiency)**
 
 Analyzes product categories by:
   -Order volume
