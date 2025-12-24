@@ -13,8 +13,6 @@ Are operational issues (late deliveries) impacting core revenue drivers?
 
 **Dashboard Structure**
 
-<img width="1197" height="698" alt="Screenshot 2025-12-24 at 5 17 37 PM" src="https://github.com/user-attachments/assets/ed514fcb-c183-4b25-8f0d-279bd412835c" />
-
 Page A — Executive Overview
 
 Provides a high-level snapshot of business performance, including:
@@ -24,11 +22,16 @@ Provides a high-level snapshot of business performance, including:
 
 Insight: Revenue grows steadily over time, but repeat customer rate remains relatively low, suggesting growth is primarily acquisition-driven.
 
+<img width="1197" height="698" alt="Screenshot 2025-12-24 at 5 17 37 PM" src="https://github.com/user-attachments/assets/ed514fcb-c183-4b25-8f0d-279bd412835c" />
+
+
 Page B — Customer Segmentation (RFM Analysis)
 
 Customers are segmented using purchase frequency and total spend into High-, Mid-, and Low-Value groups.
 
 Insight: High-value customers represent roughly one-third of the customer base but generate approximately 74% of total revenue, indicating strong revenue concentration and highlighting retention as a high-ROI strategy.
+
+<img width="1200" height="702" alt="Screenshot 2025-12-24 at 5 18 28 PM" src="https://github.com/user-attachments/assets/d56a33c1-ad08-4d29-bc98-8fa89a191745" />
 
 Page C — Orders vs. Revenue (Category Efficiency)
 
@@ -38,6 +41,9 @@ Analyzes product categories by:
   -Delivery performance (on-time vs late)
 
 Insight: Revenue scales proportionally with order volume across top categories. Late deliveries are largely concentrated among lower-volume, lower-revenue categories, suggesting operational challenges are not currently constraining core revenue drivers.
+
+
+<img width="1195" height="698" alt="Screenshot 2025-12-24 at 5 18 40 PM" src="https://github.com/user-attachments/assets/b1ae5cc9-2310-4ec0-bb60-5e1c8ef5fddf" />
 
 **Dataset**
 Source: Public Olist Brazilian E-commerce dataset from Kaggle (https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce)
