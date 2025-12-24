@@ -5,12 +5,12 @@ To interact with the dashboard (Tableau Public), visit the link and click 'View 
   https://public.tableau.com/views/OlistEcommerce_17664395225210/ProductOperationsPerformance?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
 
 
-**Business Questions Addressed**
-How is overall revenue and order volume trending over time?
-Which customer segments contribute the most to total revenue?
-How concentrated is revenue across the customer base?
-How do product categories scale in terms of orders and revenue?
-Are operational issues (late deliveries) impacting core revenue drivers?
+**Business Questions Addressed**<br>
+How is overall revenue and order volume trending over time?<br>
+Which customer segments contribute the most to total revenue?<br>
+How concentrated is revenue across the customer base?<br>
+How do product categories scale in terms of orders and revenue?<br>
+Are operational issues (late deliveries) impacting core revenue drivers?<br>
 
 
 **Data Preparation**
@@ -23,7 +23,7 @@ An analytics-ready fact table was created at the order-item level, with engineer
 
 **Page A — Executive Overview**
 
-Provides a high-level snapshot of business performance, including:
+Provides a high-level snapshot of business performance, including:<br>
   -Total revenue, orders, customers, and average order value<br>
   -Monthly revenue trends<br>
   -Repeat customer rate and delivery performance<br>
@@ -43,7 +43,7 @@ Insight: High-value customers represent roughly one-third of the customer base b
 
 **Page C — Orders vs. Revenue (Category Efficiency)**
 
-Analyzes product categories by:
+Analyzes product categories by:<br>
   -Order volume<br>
   -Total revenue<br>
   -Delivery performance (on-time vs late)<br>
