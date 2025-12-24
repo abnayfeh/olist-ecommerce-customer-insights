@@ -16,17 +16,17 @@ Are operational issues (late deliveries) impacting core revenue drivers?
 **Data Preparation**
 Data was cleaned, joined, and transformed using Python (pandas) prior to visualization.
 An analytics-ready fact table was created at the order-item level, with engineered features to simplify KPI computation in Tableau.
-
-
+<br>
+<br>
 
 **Dashboard Structure**
 
 **Page A — Executive Overview**
 
 Provides a high-level snapshot of business performance, including:
-  -Total revenue, orders, customers, and average order value
-  -Monthly revenue trends
-  -Repeat customer rate and delivery performance
+  -Total revenue, orders, customers, and average order value<br>
+  -Monthly revenue trends<br>
+  -Repeat customer rate and delivery performance<br>
 
 Insight: Revenue grows steadily over time, but repeat customer rate remains relatively low, suggesting growth is primarily acquisition-driven.
 
@@ -44,16 +44,16 @@ Insight: High-value customers represent roughly one-third of the customer base b
 **Page C — Orders vs. Revenue (Category Efficiency)**
 
 Analyzes product categories by:
-  -Order volume
-  -Total revenue
-  -Delivery performance (on-time vs late)
+  -Order volume<br>
+  -Total revenue<br>
+  -Delivery performance (on-time vs late)<br>
 
 Insight: Revenue scales proportionally with order volume across top categories. Late deliveries are largely concentrated among lower-volume, lower-revenue categories, suggesting operational challenges are not currently constraining core revenue drivers.
 
 
 <img width="1195" height="698" alt="Screenshot 2025-12-24 at 5 18 40 PM" src="https://github.com/user-attachments/assets/b1ae5cc9-2310-4ec0-bb60-5e1c8ef5fddf" />
 
-
+<br>
 **Dataset**
 Source: Public Olist Brazilian E-commerce dataset from Kaggle (https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce)
 Size: ~100,000 orders over two years from 2016-2018
