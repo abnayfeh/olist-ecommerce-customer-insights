@@ -12,6 +12,9 @@ How do product categories scale in terms of orders and revenue?
 Are operational issues (late deliveries) impacting core revenue drivers?
 
 **Dashboard Structure**
+
+<img width="1197" height="698" alt="Screenshot 2025-12-24 at 5 17 37 PM" src="https://github.com/user-attachments/assets/ed514fcb-c183-4b25-8f0d-279bd412835c" />
+
 Page A — Executive Overview
 
 Provides a high-level snapshot of business performance, including:
