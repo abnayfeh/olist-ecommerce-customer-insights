@@ -1,7 +1,7 @@
 # olist-ecommerce-customer-insights
 This project analyzes customer behavior, revenue performance, and operational efficiency using transactional e-commerce data from the Olist marketplace. The objective was to move beyond static reporting and develop an interactive Tableau dashboard that supports business decision-making across growth, retention, and operations.
 
-Interactive Dashboard (Tableau Public):
+To interact with the dashboard (Tableau Public), visit the link and click 'View on Tableau Public' at the bottom left of the page:
   https://public.tableau.com/views/OlistEcommerce_17664395225210/ProductOperationsPerformance?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
 
 **Business Questions Addressed**
