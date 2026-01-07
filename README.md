@@ -52,8 +52,8 @@ Insight: Revenue scales proportionally with order volume across top categories. 
 
 
 <img width="1195" height="698" alt="Screenshot 2025-12-24 at 5 18 40 PM" src="https://github.com/user-attachments/assets/b1ae5cc9-2310-4ec0-bb60-5e1c8ef5fddf" />
-
 <br>
+
 **Dataset**
 Source: Public Olist Brazilian E-commerce dataset from Kaggle (https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce)
 Size: ~100,000 orders over two years from 2016-2018
